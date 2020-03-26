@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="blackStunt">#272727</color>
+    <color name="whiteStunt">#D6D5D5</color>
+    <color name="greyStunt">#AAA9A9</color>
+    <color name="white">#fff</color>
+    <color name="greenStunts">#228B5A</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#0D1A69</color>
+</resources>

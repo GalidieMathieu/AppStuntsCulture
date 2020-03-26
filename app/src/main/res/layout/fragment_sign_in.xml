@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:layout_gravity="center"
+        android:background="@color/blackStunt">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/top_Layout"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toTopOf="@id/signIn_button">
+
+
+        <EditText
+                android:id="@+id/user_name_signIn"
+                android:layout_width="264dp"
+                android:layout_height="56dp"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/with_rectangle"
+                android:hint="user name"
+                android:textColorHint="@color/whiteStunt"
+                android:layout_marginLeft="50dp"
+                android:layout_marginRight="50dp"
+                android:textAlignment="center"
+                android:textColor="@color/whiteStunt"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+        />
+
+        <EditText
+                android:id="@+id/password_signIn"
+                android:layout_width="264dp"
+                android:layout_height="56dp"
+                android:layout_marginTop="24dp"
+                android:background="@drawable/with_rectangle"
+                android:hint="password"
+                android:inputType="textPassword"
+                android:textColorHint="@color/whiteStunt"
+                android:textAlignment="center"
+                android:textColor="@color/whiteStunt"
+                app:layout_constraintTop_toBottomOf="@id/user_name_signIn"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+        />
+
+        <EditText
+                android:id="@+id/confirm_password"
+                android:layout_width="264dp"
+                android:layout_height="56dp"
+                android:layout_marginTop="24dp"
+                android:background="@drawable/with_rectangle"
+                android:hint="confirm password"
+                android:inputType="textPassword"
+                android:textColorHint="@color/whiteStunt"
+                android:textAlignment="center"
+                android:textColor="@color/whiteStunt"
+                app:layout_constraintTop_toBottomOf="@id/password_signIn"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+        />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    <Button
+            android:id="@+id/signIn_button"
+            android:layout_marginTop="32dp"
+            android:text="LOG IN"
+            android:layout_width="264dp"
+            android:layout_height="64dp"
+            android:textAlignment="center"
+            android:background="@drawable/rounded_corner_planning"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/top_Layout"
+            app:layout_constraintBottom_toBottomOf="parent"
+    />
+
+
+
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

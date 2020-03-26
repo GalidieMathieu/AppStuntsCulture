@@ -1,0 +1,168 @@
+{
+	"version": "1.00",
+	"StuntsCultureItems": [
+		{
+			"nameItems": "Tumbling",
+			"TotalPoints": 0,
+			"skills": [
+				{
+					"name": "roulade avant",
+					"points": 10,
+					"VideoID": "",
+					"difficulté": "facile"
+				},
+				{
+					"name": "salto avant",
+					"points": 30,
+					"VideoID": "9Ea4KjWfryU",
+					"difficulté": "difficile"
+				},
+				{
+					"name": "vrille",
+					"points": 50,
+					"VideoID": "Uef_XHZO8pE",
+					"difficulté": "difficile"
+				}
+
+			]
+		},
+		{
+			"nameItems": "Stunts",
+			"TotalPoints": 0,
+			"skills": [
+				{
+					"name": "Walk To Hands",
+					"points": 10,
+					"VideoID": "M9FQHUK8Ibk",
+					"difficulté": "easy"
+				},
+				{
+					"name": "hands lib",
+					"points": 10,
+					"VideoID": "M9FQHUK8Ibk",
+					"difficulté": "easy"
+				},
+				{
+					"name": "hands cupie",
+					"points": 10,
+					"VideoID": "M9FQHUK8Ibk",
+					"difficulté": "easy"
+				},
+				{
+					"name": "walking lib",
+					"points": 20,
+					"VideoID": "M9FQHUK8Ibk",
+					"difficulté": "easy"
+				},
+				{
+					"name": "toss hands",
+					"points": 20,
+					"VideoID": "M9FQHUK8Ibk",
+					"difficulté": "easy"
+				},
+				{
+					"name": "toss top",
+					"points": 20,
+					"VideoID": "M9FQHUK8Ibk",
+					"difficulté": "normal"
+				},
+				{
+					"name": "toss cupie",
+					"points": 20,
+					"VideoID": "M9FQHUK8Ibk",
+					"difficulté": "normal"
+				},
+				{
+					"name": "toss lib",
+					"points": 20,
+					"VideoID": "M9FQHUK8Ibk",
+					"difficulté": "normal"
+				},
+				{
+					"name": "hands full around",
+					"points": 20,
+					"VideoID": "M9FQHUK8Ibk",
+					"difficulté": "normal"
+				},
+				{
+					"name": "full up",
+					"points": 50,
+					"VideoID": "M9FQHUK8Ibk",
+					"difficulté": "difficile"
+				},
+				{
+					"name": "full up lib",
+					"points": 50,
+					"VideoID": "M9FQHUK8Ibk",
+					"difficulté": "difficile"
+				},
+				{
+					"name": "full up cupie",
+					"points": 50,
+					"VideoID": "M9FQHUK8Ibk",
+					"difficulté": "difficile"
+				},
+				{
+					"name": "hands in hands",
+					"points": 50,
+					"VideoID": "M9FQHUK8Ibk",
+					"difficulté": "difficile"
+				},
+				{
+					"name": "rewind",
+					"points": 50,
+					"VideoID": "M9FQHUK8Ibk",
+					"difficulté": "difficile"
+				},
+
+				{
+					"name": "Front Handspring Up",
+					"points": 50,
+					"VideoID": "ebASQaHffWY",
+					"difficulté": "difficile"
+
+				},
+
+				{
+					"name": "double up",
+					"points": 80,
+					"VideoID": "ebASQaHffWY",
+					"difficulté": "hard"
+
+				},
+
+				{
+					"name": "handSki",
+					"points": 80,
+					"VideoID": "ebASQaHffWY",
+					"difficulté": "hard"
+
+				},
+
+				{
+					"name": "full to feet",
+					"points": 80,
+					"VideoID": "ebASQaHffWY",
+					"difficulté": "hard"
+
+				},
+				{
+					"name": "one arm rewind",
+					"points": 80,
+					"VideoID": "ebASQaHffWY",
+					"difficulté": "hard"
+
+				},
+				{
+					"name": "front handspring 1&1/2",
+					"points": 80,
+					"VideoID": "ebASQaHffWY",
+					"difficulté": "hard"
+
+				}
+
+			]
+
+		}
+	]
+}

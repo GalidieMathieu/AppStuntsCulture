@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+            android:id="@+id/youtube"
+            android:icon="@drawable/anim_youtube_bottomview"
+            android:title="Youtube"
+            app:showAsAction="always"/>
+
+    <item
+            android:id="@+id/join_us"
+            android:icon="@drawable/youtube_bottom_icon"
+            android:title="Join Us"
+            />
+
+    <item
+            android:id="@+id/trophy"
+            android:icon="@drawable/trophy"
+            android:title="Achievement"
+            app:showAsAction="always"/>
+
+
+
+</menu>
